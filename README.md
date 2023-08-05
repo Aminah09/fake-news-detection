@@ -1,4 +1,4 @@
-# Real Time Fake News Detection using Data Science
+# Fake News Detection using Data Science
 
 ## Description
 
